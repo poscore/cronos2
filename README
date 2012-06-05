@@ -1,0 +1,10 @@
+University of Ioannina - Computer Science
+created by: Tzivaras Vasilis
+
+Basic idea:
+---------------
+This is a project for https://cronos.cc.uoi.gr/ webpage. Only users with account there can use it! User must give username and password first and he/she will be able to see some basic info for his/her account like a sum of his/her grades etc. Information is not stored in any server and the whole code is available on github.
+
+Please report any bugs or problems found at vtzivaras@gmail.com.
+
+
