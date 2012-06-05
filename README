@@ -1,10 +1,26 @@
-University of Ioannina - Computer Science
-created by: Tzivaras Vasilis
+Copyright (C)  2012  Tzivaras Vasilis.
+Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.3
+or any later version published by the Free Software Foundation;
+with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+A copy of the license is included in the section entitled "GNU
+Free Documentation License".
 
-Basic idea:
----------------
-This is a project for https://cronos.cc.uoi.gr/ webpage. Only users with account there can use it! User must give username and password first and he/she will be able to see some basic info for his/her account like a sum of his/her grades etc. Information is not stored in any server and the whole code is available on github.
+--------------------
+About this project
+--------------------
+This project created basically for fun! Only members of https://cronos.cc.uoi.gr/ can use the scrips but everyone can modify this for his/her own target.
 
-Please report any bugs or problems found at vtzivaras@gmail.com.
+-------------------
+How to use it
+-------------------
+Users shall only give a valid username and password and then they will be able to see some basic information. Its important to know that no information is stored in the server you can find below.
 
+--> SERVER <--
+URL: http://83.212.34.194/cronos/cronos/cronos_form.html 
+(for the time server's IP is NOT STATIC so i'll try update this if anything happens.)
 
+------------------
+Contact me
+-----------------
+Please feel free to ask any question and report bugs found at vtzivaras@gmail.com.
